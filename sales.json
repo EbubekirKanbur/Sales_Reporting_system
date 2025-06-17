@@ -1,0 +1,8 @@
+[
+  { "Date": "2025-06-01T10:00:00", "Amount": 100, "Product": "Laptop", "Customer": "Ali Demir" },
+  { "Date": "2025-06-02T14:00:00", "Amount": 250, "Product": "Mouse", "Customer": "Ayşe Kaya" },
+  { "Date": "2025-06-05T09:00:00", "Amount": 90, "Product": "Laptop", "Customer": "Ali Demir" },
+  { "Date": "2025-06-10T12:00:00", "Amount": 300, "Product": "Klavye", "Customer": "Mehmet Ak" },
+  { "Date": "2025-06-11T17:00:00", "Amount": 150, "Product": "Mouse", "Customer": "Ayşe Kaya" },
+  { "Date": "2025-06-14T15:00:00", "Amount": 450, "Product": "Laptop", "Customer": "Ali Demir" }
+]
